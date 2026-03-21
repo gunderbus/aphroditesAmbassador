@@ -1,4 +1,4 @@
-package com.example;
+package com.cole;
 
 public class SystemInfo {
 

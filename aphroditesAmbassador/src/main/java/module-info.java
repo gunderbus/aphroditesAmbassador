@@ -1,4 +1,4 @@
-module com.example {
+module com.cole {
     requires javafx.controls;
-    exports com.example;
+    exports com.cole;
 }
